@@ -1,0 +1,13 @@
+.bottomLeft {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 60px;
+    color: white;
+}
+.bottomLeft:active {
+    font-size: 58px;
+}
+.bottomLeft:hover {
+    color: grey;
+}

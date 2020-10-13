@@ -1,0 +1,21 @@
+.singleTodo {
+    color: white;
+    width: 220px;
+    text-align:center;
+    border-bottom: 1px solid black;
+
+}
+.todoContainer {   
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.buttons {
+    margin-left: 10px;
+}
+.littleButton {
+    cursor: pointer;
+}
+.littleButton:hover {
+    color: yellow;
+}
