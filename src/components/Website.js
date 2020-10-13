@@ -1,12 +1,12 @@
 import React from 'react'
-import {BsPersonBoundingBox} from 'react-icons/bs';
+import {GrLinkedin} from 'react-icons/gr';
 import "../Styles/website.css"
 
 
 function Website() {
     return (
-        <a target="_blank" rel="noopener noreferrer" href="https://leonardorojas.com/">
-            <BsPersonBoundingBox className="bottomLeft"/>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/leonardo-rojas-personal/">
+            <GrLinkedin className="bottomLeft"/>
         </a>
     )
 }
